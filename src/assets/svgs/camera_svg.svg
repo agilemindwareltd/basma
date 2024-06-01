@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 496 432">
+      <image width="496" height="432" xlink:href="Group%203779-image.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_3779" data-name="Group 3779" transform="translate(-153 -724)">
+    <rect id="Camera" width="36" height="31" transform="translate(170 739)" fill="url(#pattern)"/>
+    <g id="Ellipse_778" data-name="Ellipse 778" transform="translate(153 724)" stroke="rgba(112,112,112,0.99)" stroke-width="5">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="32.5" fill="none"/>
+    </g>
+    <image id="Camera-2" data-name="Camera" width="40" height="34.839" transform="translate(167.5 742)" xlink:href="Group%203779-image.png"/>
+  </g>
+</svg>

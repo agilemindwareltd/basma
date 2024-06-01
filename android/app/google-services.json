@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167420106748",
+    "project_id": "wewerehere-4a1ec",
+    "storage_bucket": "wewerehere-4a1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167420106748:android:7f7a019b76b946a3474479",
+        "android_client_info": {
+          "package_name": "com.wewerehere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167420106748-hkhuaeomam5d1grapnl80vntk0je7rsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wewerehere",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "167420106748-ick1a9a7i156lsq2p0k61q98vvninntl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2KnT-IIXIotKiVErht7NBfd_X8tbsTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167420106748-ick1a9a7i156lsq2p0k61q98vvninntl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
